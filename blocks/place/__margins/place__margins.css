@@ -1,0 +1,20 @@
+.place__margins {
+  margin: 0;
+  margin-bottom: 80px;
+}
+
+.place__margins:last-of-type {
+  margin: 0;
+}
+
+@media screen and (max-width: 1023.5px) {
+  .place__margins {
+    margin-bottom: 72px;
+  }
+}
+
+@media screen and (max-width: 767.5px) {
+  .place__margins {
+    margin-bottom: 50px;
+  }
+}

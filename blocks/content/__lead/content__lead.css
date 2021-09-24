@@ -1,0 +1,23 @@
+@media screen and (min-width: 1280px) {
+  .content__lead {
+    margin: 56px 148px 0 148px;
+  }
+}
+
+@media screen and (max-width: 1279.5px) {
+  .content__lead {
+    margin: 48px 48px 0 48px;
+  }
+}
+
+@media screen and (max-width: 1023.5px) {
+  .content__lead {
+    margin: 48px 0 0 0;
+  }
+}
+
+@media screen and (max-width: 767.5px) {
+  .content__lead {
+    margin: 48px 0 0 0;
+  }
+}
